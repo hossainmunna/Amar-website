@@ -1,0 +1,89 @@
+body{
+    margin: 0em;
+    font-family: 'Poppins', sans-serif;
+}
+h1{ font-size: 40px;
+    color: rgb(255, 16, 156);
+}
+.halfwidth{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;}
+
+.halfwidth img {
+    width: 90%;}
+
+    .top area{ 
+        background-image: url("pick/biography-bg.png");
+    }
+    section{
+        height: 600px;
+    }
+    #me{
+        text-decoration: none;
+        background-color: rgb(255, 31, 143);
+        padding: 4px; 
+        color:white;
+        border-radius: 3px;}
+    .top area{
+        background-repeat: no-repeat;
+    }
+.bioarea{
+    width: 40%;
+    padding: 3%;
+    margin: 2%;
+    float: left;
+}
+.bioarea img{
+    width: 60%;
+}
+.dream section{
+    background-image: url("pick/biography-bg.png");
+    height: 600px;
+    clear: both;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+    #CV{
+        text-decoration: none;
+        background-color: rgb(255, 16, 156);
+        border-radius: 5px;
+        padding: 2px;
+        color: white;
+    }
+     .small area{
+        background-image: url("pick/footer-bg.png");
+        background-repeat: no-repeat;
+        
+    } 
+    .small area h1{
+        text-align: center;
+    }
+    
+    .big{
+        text-align: center;
+    }
+
+    
+.mujhemilo{ 
+    text-align: center;
+    border: 2px solid;
+    margin: 50px;
+    padding: 5px 20px;
+    background-color: rgba(245, 248, 32, 0.849);
+    color: black;
+}
+    #mail{
+        text-decoration: none;
+    }
+    .mujhemilo :hover{
+        color: rgb(236, 44, 76);
+    }
+    #lastpart{
+        text-align: center;
+        color: black;
+     }
+     #lastpart :hover{
+         color: blue;
+     }
